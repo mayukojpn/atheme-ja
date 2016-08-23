@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Sydney package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-08-20 17:11+0900\n"
+"PO-Revision-Date: 2016-08-21 18:51+0900\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -148,8 +148,9 @@ msgid "Available version:"
 msgstr "利用可能なバージョン:"
 
 #: plugins/class-tgm-plugin-activation.php:2375
+#, fuzzy
 msgid "Installed version:"
-msgstr "Version : "
+msgstr "インストールされたバージョン:"
 
 #: plugins/class-tgm-plugin-activation.php:2285
 msgid "To Activate <span class=\"count\">(%s)</span>"
@@ -187,8 +188,9 @@ msgid "%1$s, %2$s"
 msgstr ""
 
 #: plugins/class-tgm-plugin-activation.php:2220
+#, fuzzy
 msgid "Requires Update"
-msgstr "要更新"
+msgstr "更新が必要です"
 
 #: plugins/class-tgm-plugin-activation.php:2223
 msgid "Update recommended"
@@ -231,8 +233,9 @@ msgid "Set the parent_slug config variable instead."
 msgstr ""
 
 #: plugins/class-tgm-plugin-activation.php:521
+#, fuzzy
 msgid "Update Required"
-msgstr "更新する必要があります"
+msgstr "更新が必要です"
 
 #: plugins/class-tgm-plugin-activation.php:520
 msgid "This plugin needs to be updated to be compatible with your theme."
@@ -247,8 +250,9 @@ msgid "Plugin not activated. A higher version of %s is needed for this theme. Pl
 msgstr ""
 
 #: plugins/class-tgm-plugin-activation.php:401
+#, fuzzy
 msgid "No action taken. Plugin %1$s was already active."
-msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効化されています。"
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
 
 #: plugins/class-tgm-plugin-activation.php:387
 msgid "Begin updating plugin"
@@ -280,8 +284,9 @@ msgid "The remote plugin package does not contain a folder with the desired slug
 msgstr ""
 
 #: plugins/class-tgm-plugin-activation.php:336
+#, fuzzy
 msgid "Something went wrong with the plugin API."
-msgstr "plugin API　で問題が発生しました"
+msgstr "Plugin API で問題が発生しました。"
 
 #. Template Name of the plugin/theme
 msgid "Full width"
@@ -686,16 +691,18 @@ msgid "Search Results for: %s"
 msgstr "検索結果: %s"
 
 #: plugins/class-tgm-plugin-activation.php:3374
+#, fuzzy
 msgid "Installing Plugin %1$s (%2$d/%3$d)"
-msgstr "プラグをインインストールしています %1$s (%2$d/%3$d)"
+msgstr "プラグインをインインストールしています %1$s (%2$d/%3$d)"
 
 #: plugins/class-tgm-plugin-activation.php:3373
 msgid "All installations have been completed."
 msgstr "すべてのインストールが完了しました。"
 
 #: plugins/class-tgm-plugin-activation.php:3372
+#, fuzzy
 msgid "%1$s installed successfully."
-msgstr "%1$s が正常にインストールされました。"
+msgstr "%1$s を正常にインストールしました。"
 
 #: plugins/class-tgm-plugin-activation.php:3371
 msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
@@ -720,8 +727,9 @@ msgid "Show Details"
 msgstr "詳細を表示"
 
 #: plugins/class-tgm-plugin-activation.php:3366
+#, fuzzy
 msgid "%1$s installed and activated successfully."
-msgstr "%1$s が正常にインストールされ、有効化されました。"
+msgstr "%1$s を正常にインストールし、有効化しました。"
 
 #: plugins/class-tgm-plugin-activation.php:3365
 msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
@@ -756,16 +764,19 @@ msgid "Install"
 msgstr "インストール"
 
 #: plugins/class-tgm-plugin-activation.php:2439
+#, fuzzy
 msgid "Status"
-msgstr "ステータス"
+msgstr "状態"
 
 #: plugins/class-tgm-plugin-activation.php:2434
+#, fuzzy
 msgid "Type"
-msgstr "Type"
+msgstr "種別"
 
 #: plugins/class-tgm-plugin-activation.php:2433
+#, fuzzy
 msgid "Source"
-msgstr "ソース"
+msgstr "取得方法"
 
 #: plugins/class-tgm-plugin-activation.php:2487
 msgctxt "%2$s = plugin name in screen reader markup"
@@ -802,12 +813,14 @@ msgid "Required"
 msgstr "必須"
 
 #: plugins/class-tgm-plugin-activation.php:2182
+#, fuzzy
 msgid "WordPress Repository"
-msgstr "WordPress公式レポジトリ"
+msgstr "WordPress 公式ディレクトリ"
 
 #: plugins/class-tgm-plugin-activation.php:2188
+#, fuzzy
 msgid "Pre-Packaged"
-msgstr "プレパッケージされた"
+msgstr "プリパッケージ"
 
 #: plugins/class-tgm-plugin-activation.php:824
 #: plugins/class-tgm-plugin-activation.php:3434
@@ -819,31 +832,36 @@ msgid "Dismiss this notice"
 msgstr "無視する"
 
 #: plugins/class-tgm-plugin-activation.php:403
+#, fuzzy
 msgid "All plugins installed and activated successfully. %1$s"
-msgstr "すべてのプラグインが正常にインストール、有効化されました。 %1$s"
+msgstr "すべてのプラグインを正常にインストールし、有効化しました。 %1$s"
 
 #: plugins/class-tgm-plugin-activation.php:400
 #: plugins/class-tgm-plugin-activation.php:2828
+#, fuzzy
 msgid "The following plugin was activated successfully:"
-msgstr "以下のプラグインは有効化されました："
+msgstr "以下のプラグインを有効化しました:"
 
 #: plugins/class-tgm-plugin-activation.php:399
 #: plugins/class-tgm-plugin-activation.php:3025
+#, fuzzy
 msgid "Plugin activated successfully."
-msgstr "プラグインは有効化されました。"
+msgstr "プラグインを有効化しました。"
 
 #: plugins/class-tgm-plugin-activation.php:398
 msgid "Return to the dashboard"
 msgstr "ダッシュボードに戻る"
 
 #: plugins/class-tgm-plugin-activation.php:397
+#, fuzzy
 msgid "Return to Required Plugins Installer"
-msgstr "必要なプラグインインストーラに戻る"
+msgstr "必須プラグインのインストール画面に戻る"
 
 #: plugins/class-tgm-plugin-activation.php:392
+#, fuzzy
 msgid "Begin activating plugin"
 msgid_plural "Begin activating plugins"
-msgstr[0] "プラグインのアクティブ化を開始"
+msgstr[0] "プラグインの有効化を開始"
 
 #: plugins/class-tgm-plugin-activation.php:382
 msgid "Begin installing plugin"
@@ -856,24 +874,27 @@ msgid_plural "The following plugins need to be updated to their latest version t
 msgstr[0] "%1$s プラグインは、このテーマとの互換性を最大限に確保するために、最新バージョンにアップデートする必要があります"
 
 #: plugins/class-tgm-plugin-activation.php:372
+#, fuzzy
 msgid "The following recommended plugin is currently inactive: %1$s."
 msgid_plural "The following recommended plugins are currently inactive: %1$s."
-msgstr[0] "おすすめの %1$s プラグインは、アクティブに設定されていません"
+msgstr[0] "推奨プラグインが有効化されていません: %1$s。"
 
 #: plugins/class-tgm-plugin-activation.php:367
+#, fuzzy
 msgid "The following required plugin is currently inactive: %1$s."
 msgid_plural "The following required plugins are currently inactive: %1$s."
-msgstr[0] "テーマに必要なプラグイン　%1$s　が　アクティブに設定されていません"
+msgstr[0] "必須プラグインが有効化されていません: %1$s。"
 
 #: plugins/class-tgm-plugin-activation.php:342
+#, fuzzy
 msgid "This theme recommends the following plugin: %1$s."
 msgid_plural "This theme recommends the following plugins: %1$s."
-msgstr[0] "このテーマは、%1$s　プラグイン利用をおすすめします"
+msgstr[0] "このテーマは、以下のプラグインの利用を推奨しています: %1$s。"
 
 #: plugins/class-tgm-plugin-activation.php:337
 msgid "This theme requires the following plugin: %1$s."
 msgid_plural "This theme requires the following plugins: %1$s."
-msgstr[0] "このテーマは、%1$s　プラグインが必要です"
+msgstr[0] "このテーマは、以下のプラグインの利用が必要です: %1$s。"
 
 #: plugins/class-tgm-plugin-activation.php:335
 msgid "Installing Plugin: %s"
@@ -1184,8 +1205,9 @@ msgid "Body font size"
 msgstr ""
 
 #: inc/customizer.php:1299
+#, fuzzy
 msgid "Primary color"
-msgstr "プライマリーの色"
+msgstr "メインカラー"
 
 #: inc/customizer.php:1319
 msgid "Menu background"
@@ -1228,12 +1250,14 @@ msgid "Footer widget area color"
 msgstr ""
 
 #: inc/customizer.php:1559
+#, fuzzy
 msgid "Footer background"
-msgstr "フッタ背景"
+msgstr "フッターの背景"
 
 #: inc/customizer.php:1126 inc/customizer.php:1360
+#, fuzzy
 msgid "Site description"
-msgstr "サイト説明"
+msgstr "サイトの説明"
 
 #: inc/customizer.php:1145
 msgid "Menu items"
@@ -1260,16 +1284,18 @@ msgid "H5 font size"
 msgstr ""
 
 #: inc/customizer.php:1107 inc/customizer.php:1339
+#, fuzzy
 msgid "Site title"
-msgstr "サイトのタイトル"
+msgstr "サイトタイトル"
 
 #: inc/customizer.php:1041
 msgid "Headings fonts"
 msgstr ""
 
 #: inc/customizer.php:1089
+#, fuzzy
 msgid "Font sizes"
-msgstr "フォントサイズ"
+msgstr "文字サイズ"
 
 #: inc/customizer.php:982
 msgid "Google Fonts can be found here: google.com/fonts. See the documentation if you need help in selecting Google Fonts: athemes.com/documentation/sydney"
@@ -1448,8 +1474,9 @@ msgid "Subtitle for the second slide"
 msgstr ""
 
 #: inc/customizer.php:348
+#, fuzzy
 msgid "Third slide"
-msgstr "第3のスライド"
+msgstr "第三スライド"
 
 #: inc/customizer.php:366
 msgid "Upload your third image for the slider"
@@ -1516,12 +1543,14 @@ msgid "Menu style"
 msgstr "メニュースタイル"
 
 #: inc/customizer.php:612
+#, fuzzy
 msgid "Sticky menu"
-msgstr "スティッキーメニュー"
+msgstr "メニューの固定"
 
 #: inc/customizer.php:615 inc/customizer.php:1689
+#, fuzzy
 msgid "Sticky"
-msgstr "先頭に固定表示"
+msgstr "固定する"
 
 #: inc/customizer.php:135 inc/customizer.php:157
 msgid "No header (only menu)"
@@ -1560,8 +1589,9 @@ msgid "Stop the text slider?"
 msgstr ""
 
 #: inc/customizer.php:212
+#, fuzzy
 msgid "First slide"
-msgstr "最初のスライド"
+msgstr "第一スライド"
 
 #: inc/customizer.php:230
 msgid "Upload your first image for the slider"
